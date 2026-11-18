@@ -9,7 +9,7 @@ I enjoy learning new technologies, working on technical projects, and developing
 * Cloud Computing
 * Artificial Intelligence
 * Machine Learning
-* Project Mangmant
+* Project Managemant
 * Web Dev
 * Deep Learning
 
